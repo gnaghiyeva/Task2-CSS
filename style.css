@@ -1,0 +1,55 @@
+.container_lists .container_lists_two{
+    background-color: yellow;
+}
+
+.container_texts :first-child{
+    border: 4px solid rgb(215, 17, 215);
+    color: red;
+    font-weight: bold;
+}
+
+.container_texts :nth-child(2){
+    background-color: rgb(97, 167, 253);
+}
+
+[class="parag"]{
+
+    background-color: rgb(18, 178, 18);
+}
+
+[id="parag"]{
+    color: red;
+}
+
+a:last-child{
+    background-color: yellow;
+}
+
+
+/* 
+-------------- ikinci usul -----------------
+.container_lists .container_lists_two{
+    background-color: yellow;
+}
+
+.container_texts #coding{
+    border: 4px solid rgb(215, 17, 215);
+    color: red;
+    font-weight: bold;
+}
+
+.container_texts #span{
+    background-color: rgb(97, 167, 253);
+}
+
+.container_texts .parag{
+    background-color: rgb(18, 178, 18);
+}
+
+.container_texts #parag{
+    color: red;
+}
+
+#link_two{
+    background-color: yellow;
+} */
